@@ -1,1 +1,1 @@
-LeetCode-SQL-Solutions
+My solutions to LeetCode SQL questions
